@@ -1,0 +1,22 @@
+[2023-01-25 10:26:07,214: DEBUG] Starting new HTTP connection (1): 127.0.0.1:8000
+[2023-01-25 10:26:07,217: ERROR] API couldn't be found.
+[2023-01-25 10:27:54,128: DEBUG] Starting new HTTP connection (1): 127.0.0.1:8000
+[2023-01-25 10:27:54,129: ERROR] API couldn't be found.
+[2023-01-25 10:28:12,162: DEBUG] Starting new HTTP connection (1): 127.0.0.1:8000
+[2023-01-25 10:28:12,163: ERROR] API couldn't be found.
+[2023-01-25 10:29:02,117: DEBUG] Starting new HTTP connection (1): 127.0.0.1:8000
+[2023-01-25 10:29:02,118: ERROR] API couldn't be found.
+[2023-01-25 10:29:57,116: DEBUG] Starting new HTTP connection (1): 127.0.0.1:8000
+[2023-01-25 10:29:57,119: ERROR] API couldn't be found.
+[2023-01-25 10:30:19,848: DEBUG] Starting new HTTP connection (1): 127.0.0.1:8000
+[2023-01-25 10:30:19,849: ERROR] API couldn't be found.
+[2023-01-25 10:30:30,142: DEBUG] Starting new HTTP connection (1): 127.0.0.1:8000
+[2023-01-25 10:30:30,143: ERROR] API couldn't be found.
+[2023-01-25 10:30:58,230: DEBUG] Starting new HTTP connection (1): 127.0.0.1:8000
+[2023-01-25 10:30:58,231: ERROR] API couldn't be found.
+[2023-01-25 10:34:14,187: DEBUG] Starting new HTTP connection (1): 127.0.0.1:8000
+[2023-01-25 10:34:14,188: ERROR] API couldn't be found.
+[2023-01-25 10:35:04,517: DEBUG] Starting new HTTP connection (1): 127.0.0.1:8000
+[2023-01-25 10:35:04,518: ERROR] API couldn't be found.
+[2023-01-25 10:35:23,479: DEBUG] Starting new HTTP connection (1): 127.0.0.1:8000
+[2023-01-25 10:35:23,480: ERROR] API couldn't be found.
