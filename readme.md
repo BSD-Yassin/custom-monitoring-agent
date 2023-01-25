@@ -2,7 +2,7 @@
 
 ## Description
 
-This is supposed to be send to a slave node as a daemon or a cronjob to use ansible output as reference for any file modification, if any, it will send the master node or the Ansible Tower to re-do the whole provisioning of the server. In short, the concept tries to self-monitor itself, without having to install Ansible, just re-read facts. 
+This is supposed to be send to a slave node as a daemon or a cronjob to use ansible output as reference for any file modification, if any, it will send the master node or the Ansible Tower to re-do the whole provisioning of the server. In short, the concept tries to self-monitor itself, without having to install Ansible or ssh into the machine, just re-read facts. It's meant to avoid having anything network depend.
 
 ## How to use 
 
