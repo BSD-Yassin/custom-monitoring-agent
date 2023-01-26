@@ -14,6 +14,6 @@ class CustomAgent_Monitoring():
 
 if __name__ == "__main__":
     Instance = CustomAgent_Monitoring()
-    print(Instance.get_config)
+    print(Instance.config)
     print(Instance.logger)
     print(Instance.monitor)
